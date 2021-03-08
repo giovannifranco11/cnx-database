@@ -69,8 +69,8 @@
             
         <select/>
 
-        
-        <br/><br/>
+        <br/>
+        <br/>
         Shift: 
         <input name="shift" type="radio" value="0"/> Day
         <input name="shift" type="radio" value="1"/> Night
