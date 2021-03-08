@@ -14,6 +14,7 @@
         <input name="gender" type="radio" value="0"/> Female
         <input name="gender" type="radio" value="1"/> Male
         <br/><br/>
+        Stratum:
         <select name="stratum">
             <option value="1">One<option/>
             <option value="2">Two<option/>
